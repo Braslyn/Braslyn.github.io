@@ -16,7 +16,7 @@ Videos enfocados en c++ , la referencia es el mismo concepto que en Java .Solo q
 
 ### Support or Contact
 
-[IG] (https://www.instagram.com/braslynrodriguez/)
-[Twiter](https://twitter.com/_Brazza__)
-[facebook](https://www.facebook.com/braslyn.rodriguez.5/)
-Correo: braslyn.rodriguez.ramirez@est.una.ac.cr
+- [IG](https://www.instagram.com/braslynrodriguez/)
+- [Twiter](https://twitter.com/_Brazza__)
+- [facebook](https://www.facebook.com/braslyn.rodriguez.5/)
+- Correo: braslyn.rodriguez.ramirez@est.una.ac.cr
