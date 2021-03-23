@@ -7,10 +7,11 @@ braslyn.rodriguez.ramirez@est.una.ac.cr
 ### Descarga
 
 ```markdown
-| First Header | Second Header |
-| ------------ | ------------- |
-| Content cell 1 | Content cell 2 |
-| Content column 1 | Content column 2 |
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 ```
 [Ejemplo](https://github.com/Braslyn/Braslyn.github.io/raw/gh-pages/Ejercicios/Java/Bouncing.7z)
