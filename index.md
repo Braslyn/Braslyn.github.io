@@ -4,16 +4,15 @@ Espero que este curso sea interesante y divertido para usted.
 
 braslyn.rodriguez.ramirez@est.una.ac.cr
 
-### Descarga
+### Temas
 
-```markdown
 | Column 1 Header | Column 2 Header | Column 3 Header |
 | --------------- | --------------- | --------------- |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
-```
+
 [Ejemplo](https://github.com/Braslyn/Braslyn.github.io/raw/gh-pages/Ejercicios/Java/Bouncing.7z)
 
 ### Support or Contact
