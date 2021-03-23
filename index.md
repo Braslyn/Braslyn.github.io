@@ -7,8 +7,8 @@ braslyn.rodriguez.ramirez@est.una.ac.cr
 ### Descarga
 
 ```markdown
-	|Java|C++|
-	|:---|:---|
+	|Java | C++ | 
+	|:--- |:--- |
 	| None|None |
 	| None|None |
 	| None|None |
