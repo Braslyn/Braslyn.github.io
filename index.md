@@ -1,6 +1,6 @@
 ## Bienvenidos a Programacion II
 Yo soy Braslyn Rodriguez Ramirez su tutor, estoy en 4to año. He programado en VB , Python, Java, Prolog, C++ , C# y Js. Proximamente Kotlin.
-Espero que este curso sea interesante y ojala divertido para usted.
+Espero que este curso sea interesante y divertido para usted.
 
 braslyn.rodriguez.ramirez@est.una.ac.cr
 
