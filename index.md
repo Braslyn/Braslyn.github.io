@@ -2,19 +2,21 @@
 Yo soy Braslyn Rodriguez Ramirez su tutor, estoy en 4to año. He programado en VB , Python, Java, Prolog, C++ , C# y Js. Proximamente Kotlin.
 Espero que este curso sea interesante y divertido para usted.
 
-braslyn.rodriguez.ramirez@est.una.ac.cr
+## Repaso Punteros
+
+Videos enfocados en c++ , la referencia es el mismo concepto que en Java .Solo que en c++ si tenemos punteros.
+[Punteros y referencias](https://youtu.be/tb2XSRJjUbU)
+[Memoria](https://youtu.be/DKG8surY3zg)
 
 ### Temas
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
-
-
-[Ejemplo](https://github.com/Braslyn/Braslyn.github.io/raw/gh-pages/Ejercicios/Java/Bouncing.7z)
+| C++ | Java |
+| --------------- | --------------- |
+| None | None |
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[IG] (https://www.instagram.com/braslynrodriguez/)
+[Twiter](https://twitter.com/_Brazza__)
+[facebook](https://www.facebook.com/braslyn.rodriguez.5/)
+Correo: braslyn.rodriguez.ramirez@est.una.ac.cr
