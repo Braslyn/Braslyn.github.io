@@ -7,11 +7,11 @@ braslyn.rodriguez.ramirez@est.una.ac.cr
 ### Descarga
 
 ```markdown
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content cell 1 | Content cell 2 |
+| Content column 1 | Content column 2 |
+
 ```
 [Ejemplo](https://github.com/Braslyn/Braslyn.github.io/raw/gh-pages/Ejercicios/Java/Bouncing.7z)
 
