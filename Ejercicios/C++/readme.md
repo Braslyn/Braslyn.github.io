@@ -1,4 +1,4 @@
-# Pagina a los ejercicios de c++
+# Pagina para los ejercicios de C++
 
 ## Ejercicios
 
