@@ -8,11 +8,11 @@ Videos enfocados en c++ , la referencia es el mismo concepto que en Java .Solo q
 [Punteros y referencias](https://youtu.be/tb2XSRJjUbU)
 [Memoria](https://youtu.be/DKG8surY3zg)
 
-### Temas
+### Lenguajes
 
-| C++ | Java |
-| --------------- | --------------- |
-| None | None |
+| C++ | Java | Python |
+| --------------- | --------------- | ------------ |
+| [ir](https://braslyn.github.io/Ejercicios/Java/) | [ir](https://braslyn.github.io/Ejercicios/C++/) | [?] |
 
 ### Support or Contact
 
