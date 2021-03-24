@@ -1,6 +1,6 @@
 # Pagina destinada  a los ejercicios de Java
 
-##Ejercicios
+## Ejercicios
 
 | Tema | archivo |
 | ----- | ------ |
