@@ -4,4 +4,4 @@
 
 | Tema | archivo |
 | ----- | ------ |
-| Generic List | [download](https://braslyn.github.io/Ejercicios/Java/ListaTemplate.zip) |
+| Generic List | [download](https://braslyn.github.io/Ejercicios/Java/ListaG.zip) |
