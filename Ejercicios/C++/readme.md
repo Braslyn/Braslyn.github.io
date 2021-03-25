@@ -6,3 +6,8 @@
 | ----- | ------ |
 | Lista template y sobrecarga | [download](https://Braslyn.github.io/Ejercicios/C++/Listatemplate.zip) |
 | Iterador | [download](https://Braslyn.github.io/Ejercicios/C++/Iteradores.zip) |
+| Composite | [download](https://Braslyn.github.io/Ejercicios/C++/Composite_Empresa.zip) |
+| Archivos | [download](https://Braslyn.github.io/Ejercicios/C++/Archivos.zip) |
+| Singleton | [download](https://Braslyn.github.io/Ejercicios/C++/Singleton.zip) |
+| Sobrecarga y herencia | [download](https://Braslyn.github.io/Ejercicios/C++/SobreCarga_y_herencia.zip) |
+| Prototipado | [download](https://Braslyn.github.io/Ejercicios/C++/Prototipado.zip) |
