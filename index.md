@@ -5,7 +5,7 @@ Espero que este curso sea interesante y divertido para usted.
 ## Repaso Punteros
 
 Videos enfocados en c++ , la referencia es el mismo concepto que en Java .Solo que en c++ si tenemos punteros.
-[Punteros y referencias](https://youtu.be/tb2XSRJjUbU)
+[Punteros y referencias](https://youtu.be/tb2XSRJjUbU) y 
 [Memoria](https://youtu.be/DKG8surY3zg)
 
 ### Lenguajes
