@@ -11,3 +11,4 @@
 | Singleton | [download](https://Braslyn.github.io/Ejercicios/C++/Singleton.zip) |
 | Sobrecarga y herencia | [download](https://Braslyn.github.io/Ejercicios/C++/SobreCarga_y_herencia.zip) |
 | Prototipado | [download](https://Braslyn.github.io/Ejercicios/C++/Prototipado.zip) |
+| Principio de Inversion de Dependencia | [download](https://Braslyn.github.io/Ejercicios/C++/PrincipioInversionDependencia.zip) |
