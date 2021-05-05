@@ -13,3 +13,4 @@
 | Prototipado | [download](https://Braslyn.github.io/Ejercicios/C++/Prototipado.zip) |
 | Principio de Inversion de Dependencia | [download](https://Braslyn.github.io/Ejercicios/C++/PrincipioInversionDependencia.zip) |
 | Try/template | [download](https://Braslyn.github.io/Ejercicios/C++/Refrigerador.zip) |
+| Decorador 2021 | [download](https://Braslyn.github.io/Ejercicios/C++/Decorador_2021.zip) |
