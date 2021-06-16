@@ -12,7 +12,7 @@ Videos enfocados en c++ , la referencia es el mismo concepto que en Java .Solo q
 
 | C++ | Java | Python |
 | --------------- | --------------- | ------------ |
-| [ir](https://braslyn.github.io/Ejercicios/C++/) | [ir](https://braslyn.github.io/Ejercicios/Java/) | [ir](https://braslyn.github.io/Ejercicios/Python/ |
+| [ir](https://braslyn.github.io/Ejercicios/C++/) | [ir](https://braslyn.github.io/Ejercicios/Java/) | [ir](https://braslyn.github.io/Ejercicios/Python/) |
 
 ### Support or Contact
 
