@@ -17,3 +17,4 @@
 | Json List | [download](https://Braslyn.github.io/Ejercicios/C++/Json_List.zip) |
 | Proxy | [download](https://Braslyn.github.io/Ejercicios/C++/Proxy_Pattern.zip) |
 | TemplateSerializador | [https://Braslyn.github.io/Ejercicios/C++/ArbolTemplate.zip] |
+| JsonCsvEnfermedades | [https://Braslyn.github.io/Ejercicios/C++/enfermedadesCSV.zip] |
