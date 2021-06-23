@@ -16,5 +16,5 @@
 | Decorador 2021 | [download](https://Braslyn.github.io/Ejercicios/C++/Decorador_2021.zip) |
 | Json List | [download](https://Braslyn.github.io/Ejercicios/C++/Json_List.zip) |
 | Proxy | [download](https://Braslyn.github.io/Ejercicios/C++/Proxy_Pattern.zip) |
-| TemplateSerializador | [https://Braslyn.github.io/Ejercicios/C++/ArbolTemplate.zip] |
-| JsonCsvEnfermedades | [https://Braslyn.github.io/Ejercicios/C++/enfermedadesCSV.zip] |
+| TemplateSerializador | [download](https://Braslyn.github.io/Ejercicios/C++/ArbolTemplate.zip) |
+| JsonCsvEnfermedades | [download](https://Braslyn.github.io/Ejercicios/C++/enfermedadesCSV.zip) |
