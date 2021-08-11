@@ -4,4 +4,4 @@
 
 | C++ | Java | Python |
 | --------------- | --------------- | ------------ |
-| [ir](https://braslyn.github.io/Progra1/Ejercicios/C++/) | [ir](https://braslyn.github.io/Progra1/Ejercicios/Java/) | [ir](https://braslyn.github.io/Progra1/Ejercicios/python/) |
+| [ir](https://braslyn.github.io/progra1/Ejercicios/C++/) | [ir](https://braslyn.github.io/progra1/Ejercicios/Java/) | [ir](https://braslyn.github.io/progra1/Ejercicios/python/) |
