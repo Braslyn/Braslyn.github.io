@@ -1,18 +1,21 @@
-## Bienvenidos a Programacion II
-Yo soy Braslyn Rodriguez Ramirez su tutor, estoy en 4to año. He programado en VB , Python, Java, Prolog, C++ , C# y Js. Proximamente Kotlin.
+## Bienvenidos a Programacion I y II (Depende del Ciclo y Circunstancia)
+Yo soy Braslyn Rodriguez Ramirez su tutor, estoy en 4to año. He programado en VB , Python, Java, Prolog, C++ ,Kotlin, C# y Js.
 Espero que este curso sea interesante y divertido para usted.
 
-## Repaso Punteros
+## Punteros
 
 Videos enfocados en c++ , la referencia es el mismo concepto que en Java .Solo que en c++ si tenemos punteros.
 [Punteros y referencias](https://youtu.be/tb2XSRJjUbU) y 
-[Memoria](https://youtu.be/DKG8surY3zg)
+[Manejo de Memoria](https://youtu.be/DKG8surY3zg)
+
+##Curso
 
 ### Lenguajes
 
-| C++ | Java | Python |
+| Progra 1 | Progra 2 | otro |
 | --------------- | --------------- | ------------ |
-| [ir](https://braslyn.github.io/Ejercicios/C++/) | [ir](https://braslyn.github.io/Ejercicios/Java/) | [ir](https://braslyn.github.io/Ejercicios/python/) |
+| [ir](https://braslyn.github.io/Progra1/Ejercicios/) | [ir](https://braslyn.github.io/Progra2/Ejercicios/) | [ir] |
+
 
 ### Support or Contact
 
