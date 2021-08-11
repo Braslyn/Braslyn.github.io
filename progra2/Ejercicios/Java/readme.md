@@ -4,5 +4,5 @@
 
 | Tema | archivo |
 | ----- | ------ |
-| Generic List | [download](https://braslyn.github.io/Ejercicios/Java/ListaG.zip) |
-| Iteradores | [download](https://braslyn.github.io/Ejercicios/Java/Iteradores.zip) |
+| Generic List | [download](https://braslyn.github.io/progra2/Ejercicios/Java/ListaG.zip) |
+| Iteradores | [download](https://braslyn.github.io/progra2/Ejercicios/Java/Iteradores.zip) |

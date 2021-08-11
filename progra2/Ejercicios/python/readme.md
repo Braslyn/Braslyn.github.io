@@ -4,4 +4,4 @@
 
 | Tema | archivo |
 | ----- | ------ |
-| Clases-Sintaxis-metodos | [download](https://braslyn.github.io/Ejercicios/python/Ejemplo.zip) |
+| Clases-Sintaxis-metodos | [download](https://braslyn.github.io/progra2/Ejercicios/python/Ejemplo.zip) |
