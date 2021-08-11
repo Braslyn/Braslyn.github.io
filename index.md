@@ -8,7 +8,7 @@ Videos enfocados en c++ , la referencia es el mismo concepto que en Java .Solo q
 [Punteros y referencias](https://youtu.be/tb2XSRJjUbU) y 
 [Manejo de Memoria](https://youtu.be/DKG8surY3zg)
 
-##Curso
+## Curso
 
 ### Lenguajes
 
