@@ -10,8 +10,6 @@ Videos enfocados en c++ , la referencia es el mismo concepto que en Java .Solo q
 
 ## Curso
 
-### Lenguajes
-
 | Progra 1 | Progra 2 | otro |
 | --------------- | --------------- | ------------ |
 | [ir](https://braslyn.github.io/progra1/Ejercicios/) | [ir](https://braslyn.github.io/progra2/Ejercicios/) | [ir] |
