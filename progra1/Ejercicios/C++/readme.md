@@ -14,3 +14,4 @@
 | ListaEnlazada de enteros| [Download](https://braslyn.github.io/progra1/Ejercicios/C++/ListaEnlazada.zip) |
 | ListaEnlazada de enteros V2 | [Download](https://braslyn.github.io/progra1/Ejercicios/C++/Tutoria.zip) |
 | Matriz Parque | [download](https://braslyn.github.io/progra1/Ejercicios/C++/ParqueMatriz.zip) |
+| HerenciaPuestos | [download](https://braslyn.github.io/progra1/Ejercicios/C++/HerenciaPuestos.zip) |
