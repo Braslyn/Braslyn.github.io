@@ -17,3 +17,4 @@
 | HerenciaPuestos | [download](https://braslyn.github.io/progra1/Ejercicios/C++/HerenciaPuestos.zip) |
 | Persistencia de Archivos | [download](https://braslyn.github.io/progra1/Ejercicios/C++/PersistenciaArchivos.zip)|
 | Persistencia de Archivos 2 | [download](https://braslyn.github.io/progra1/Ejercicios/C++/AchivosCompuestos.zip) |
+| Persistencia de Archivos 3 | [download](https://braslyn.github.io/progra1/Ejercicios/C++/achivos2.zip) |
